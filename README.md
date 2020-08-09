@@ -21,3 +21,7 @@ Using the new and powerful Jetson Nano developer kit and run multiple neural net
 4. To check you installation you can type:
 
           nodejs -v
+          
+5. To run the code save it, execute the following command
+
+          node flower.js         
